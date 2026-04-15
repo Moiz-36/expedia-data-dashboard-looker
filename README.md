@@ -26,4 +26,3 @@ This project is an interactive dashboard built using Looker to analyze booking b
 - Data visualization
 - Structured dataset analysis
 
-## Screenshot
